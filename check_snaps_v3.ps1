@@ -1,8 +1,8 @@
 Add-PSSnapin VMware.VimAutomation.core
 #Email Config
-$SMTPserver = "192.168.50.40"
-$from = "nocgroup@transcendunited.com"
-$to = "mike.olson@transcendunited.com"
+$SMTPserver = "0.0.0.0"
+$from = "me@mail.com"
+$to = "me@mail.com"
 #
 #Connect to Old vCenter check for snaps
 #
